@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppPersistencia</string>
+    <string name="str_hint">Introduce el nuevo dato</string>
+    <string name="str_guardar">Guardar</string>
+</resources>
